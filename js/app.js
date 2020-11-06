@@ -1,3 +1,3 @@
-function randomDice() {
 
-}
+
+document.querySelector(button);
